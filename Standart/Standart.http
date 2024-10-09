@@ -1,0 +1,6 @@
+@Standart_HostAddress = http://localhost:5032
+
+GET {{Standart_HostAddress}}/api/address/www/flaticon.com/
+Accept: application/json
+
+###
