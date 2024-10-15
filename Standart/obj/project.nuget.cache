@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tDJ9iWzkGOI=",
+  "dgSpecHash": "hlt8xxJS1M4=",
   "success": true,
-  "projectFilePath": "D:\\Local C#\\Standart\\Standart.csproj",
+  "projectFilePath": "D:\\Local C#\\myrepo\\Standart\\Standart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

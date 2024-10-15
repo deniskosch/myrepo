@@ -1139,11 +1139,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Local C#\\Standart\\Standart.csproj",
+      "projectUniqueName": "D:\\Local C#\\myrepo\\Standart\\Standart.csproj",
       "projectName": "Standart",
-      "projectPath": "D:\\Local C#\\Standart\\Standart.csproj",
+      "projectPath": "D:\\Local C#\\myrepo\\Standart\\Standart.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Local C#\\Standart\\obj\\",
+      "outputPath": "D:\\Local C#\\myrepo\\Standart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

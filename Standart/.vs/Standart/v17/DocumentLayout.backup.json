@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Local C#\\Standart\\",
+  "WorkspaceRootPath": "D:\\Local C#\\myrepo\\Standart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\services\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\services\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:services\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\models\\dadataresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\models\\dadataresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:models\\dadataresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\models\\addressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\models\\addressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:models\\addressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\models\\addressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\models\\addressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:models\\addressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\models\\addressprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\models\\addressprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:models\\addressprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\standart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\standart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:standart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\standart\\standart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|d:\\local c#\\myrepo\\standart\\standart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CF91047B-AB6D-4E23-8C00-86191D39DEE4}|Standart.csproj|solutionrelative:standart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -58,17 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddressService.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Services\\AddressService.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Services\\AddressService.cs",
               "RelativeDocumentMoniker": "Services\\AddressService.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Services\\AddressService.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Services\\AddressService.cs",
               "RelativeToolTip": "Services\\AddressService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T07:12:57.999Z",
               "EditorCaption": ""
@@ -77,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DadataResponseModel.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Models\\DadataResponseModel.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Models\\DadataResponseModel.cs",
               "RelativeDocumentMoniker": "Models\\DadataResponseModel.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Models\\DadataResponseModel.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Models\\DadataResponseModel.cs",
               "RelativeToolTip": "Models\\DadataResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AddressProfile.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Models\\AddressProfile.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Models\\AddressProfile.cs",
               "RelativeDocumentMoniker": "Models\\AddressProfile.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Models\\AddressProfile.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Models\\AddressProfile.cs",
               "RelativeToolTip": "Models\\AddressProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AddressController.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Controllers\\AddressController.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Controllers\\AddressController.cs",
               "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Controllers\\AddressController.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Controllers\\AddressController.cs",
               "RelativeToolTip": "Controllers\\AddressController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AddressResponse.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Models\\AddressResponse.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Models\\AddressResponse.cs",
               "RelativeDocumentMoniker": "Models\\AddressResponse.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Models\\AddressResponse.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Models\\AddressResponse.cs",
               "RelativeToolTip": "Models\\AddressResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AddressRequest.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Models\\AddressRequest.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Models\\AddressRequest.cs",
               "RelativeDocumentMoniker": "Models\\AddressRequest.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Models\\AddressRequest.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Models\\AddressRequest.cs",
               "RelativeToolTip": "Models\\AddressRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Local C#\\Standart\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -149,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IAddressService.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Services\\IAddressService.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Services\\IAddressService.cs",
               "RelativeDocumentMoniker": "Services\\IAddressService.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Services\\IAddressService.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Services\\IAddressService.cs",
               "RelativeToolTip": "Services\\IAddressService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\appsettings.json",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Local C#\\Standart\\appsettings.json",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -173,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Standart.http",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Standart.http",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Standart.http",
               "RelativeDocumentMoniker": "Standart.http",
-              "ToolTip": "D:\\Local C#\\Standart\\Standart.http",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Standart.http",
               "RelativeToolTip": "Standart.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -185,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Program.cs",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Local C#\\Standart\\Program.cs",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +201,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Standart.csproj",
-              "DocumentMoniker": "D:\\Local C#\\Standart\\Standart.csproj",
+              "DocumentMoniker": "D:\\Local C#\\myrepo\\Standart\\Standart.csproj",
               "RelativeDocumentMoniker": "Standart.csproj",
-              "ToolTip": "D:\\Local C#\\Standart\\Standart.csproj",
+              "ToolTip": "D:\\Local C#\\myrepo\\Standart\\Standart.csproj",
               "RelativeToolTip": "Standart.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
