@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitoringNET5", "MonitoringNET5\MonitoringNET5.csproj", "{DC1192F1-F05B-401B-BCFA-EAAFBA2FDC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1192F1-F05B-401B-BCFA-EAAFBA2FDC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1192F1-F05B-401B-BCFA-EAAFBA2FDC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1192F1-F05B-401B-BCFA-EAAFBA2FDC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1192F1-F05B-401B-BCFA-EAAFBA2FDC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48AB4DF2-EC8F-4133-8981-38F1F712AC92}
+	EndGlobalSection
+EndGlobal
